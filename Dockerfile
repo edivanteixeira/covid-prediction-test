@@ -3,6 +3,7 @@ FROM python:3.8
 
 WORKDIR /main
 COPY requirements.txt .
+RUN pip install pip --upgrade
 RUN pip install -r requirements.txt
 COPY main.py ./
 
