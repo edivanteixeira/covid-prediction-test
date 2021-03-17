@@ -14,6 +14,3 @@ docker run -d -p 8080:8501 test-d3
 ```
 
 ### And open your browser in http://localhost:8080
-
-
-## You can see online in https://d-3-test-6rfwo.ondigitalocean.app/
