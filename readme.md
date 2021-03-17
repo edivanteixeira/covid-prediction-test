@@ -1,4 +1,4 @@
-# D3 - Covid Prediction Test
+# Covid Prediction Test
 
 ## All references and logics has used is in folder ./draft in a notebook file named experiments.ipynb
 
