@@ -9,8 +9,8 @@
 ### After you clone this repository, you can run with the command below
 
 ```
-docker build . -t test-d3
-docker run -d -p 8080:8501 test-d3
+docker build . -t covid-predict
+docker run -d -p 8080:8501 covid-predict
 ```
 
 ### And open your browser in http://localhost:8080
